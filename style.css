@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav{
+    background-color:rgba(00, 00, 00, 0.2);
+    position: fixed;
+    display: flex;
+        justify-content: space-between;
+        padding: 0px 50px;
+        margin: 0;
+        width: 100%;
+}
+.container{
+    padding: 20px;
+    font-weight: bolder;
+ 
+    
+    
+}
+.one{ 
+    background-image: url('/images/pexels-chris-howard-229664-755298.jpg');
+    margin: 0px;
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+.two{background-image: url('/images/pexels-daniel-43199-158971.jpg');
+    margin: 0px;
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+}
+.text{
+    padding: 300px;
+    color: black;
+    margin: 20px;
+    text-shadow: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+input{
+    border: none;
+    border-radius: 10px;
+    color: yellow;
+    background-color: green;
+    width: 100px;
+    height: 70px;
+    margin: 30px;
+    
+}
+h2{
+    padding: 300px;
+  
+    color: black;
+    margin: 20px;
+    text-shadow: 20px;
+    font-weight: bold;
+    font-size: 30px;
+     }
+ul{
+    text-decoration: none;
+}
+
+
+
+    
